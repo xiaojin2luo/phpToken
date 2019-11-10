@@ -1,6 +1,7 @@
 <?php
 // 测试token.php
 //
+// test file
 //
 // 引入token类文件
 chdir(__DIR__);
