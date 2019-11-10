@@ -1,6 +1,7 @@
 <?php
 // 测试token.php
-
+//
+//
 // 引入token类文件
 chdir(__DIR__);
 require_once('./token.php');
